@@ -2,6 +2,8 @@
 
 This project is an **educational RESTful API** built with **Express.js**, **MongoDB**, and **OpenAI**. It allows users to create, manage, and search notes while leveraging AI for semantic search and question answering.
 
+**test deploy**
+
 ---
 
 ## 🚀 Features
